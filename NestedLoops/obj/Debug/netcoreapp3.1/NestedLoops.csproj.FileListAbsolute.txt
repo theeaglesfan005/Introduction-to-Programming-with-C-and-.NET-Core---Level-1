@@ -1,0 +1,11 @@
+/Users/theeaglesfan005/VSC/NestedLoops/bin/Debug/netcoreapp3.1/NestedLoops
+/Users/theeaglesfan005/VSC/NestedLoops/bin/Debug/netcoreapp3.1/NestedLoops.deps.json
+/Users/theeaglesfan005/VSC/NestedLoops/bin/Debug/netcoreapp3.1/NestedLoops.runtimeconfig.json
+/Users/theeaglesfan005/VSC/NestedLoops/bin/Debug/netcoreapp3.1/NestedLoops.runtimeconfig.dev.json
+/Users/theeaglesfan005/VSC/NestedLoops/bin/Debug/netcoreapp3.1/NestedLoops.dll
+/Users/theeaglesfan005/VSC/NestedLoops/bin/Debug/netcoreapp3.1/NestedLoops.pdb
+/Users/theeaglesfan005/VSC/NestedLoops/obj/Debug/netcoreapp3.1/NestedLoops.csprojAssemblyReference.cache
+/Users/theeaglesfan005/VSC/NestedLoops/obj/Debug/netcoreapp3.1/NestedLoops.AssemblyInfoInputs.cache
+/Users/theeaglesfan005/VSC/NestedLoops/obj/Debug/netcoreapp3.1/NestedLoops.AssemblyInfo.cs
+/Users/theeaglesfan005/VSC/NestedLoops/obj/Debug/netcoreapp3.1/NestedLoops.dll
+/Users/theeaglesfan005/VSC/NestedLoops/obj/Debug/netcoreapp3.1/NestedLoops.pdb
